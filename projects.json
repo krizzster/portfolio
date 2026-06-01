@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Anime Inventory UI",
+        "category": "Anime",
+        "image": "assets/images/animeinventoryui.webp"
+    },
+    {
+        "title": "Anime Stud UI",
+        "category": "Anime",
+        "image": "assets/images/animestudui.webp"
+    },
+    {
+        "title": "Archaelogy Theme UI",
+        "category": "Cartoony",
+        "image": "assets/images/archathemeui.webp"
+    },
+    {
+        "title": "Stud Upgrade UI",
+        "category": "Cartoony",
+        "image": "assets/images/studupgradeui.webp"
+    }
+]
