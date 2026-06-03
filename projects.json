@@ -1,5 +1,10 @@
 [
     {
+        "title": "Anime Settings UI",
+        "category": "Anime",
+        "image": "assets/images/animesettingsui.webp"
+    },
+    {
         "title": "Anime Inventory UI",
         "category": "Anime",
         "image": "assets/images/animeinventoryui.webp"
