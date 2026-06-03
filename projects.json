@@ -1,21 +1,26 @@
 [
     {
-        "title": "Anime Settings UI",
+        "title": "Daily Rewards UI",
+        "category": "Cartoony",
+        "image": "assets/images/cartoonydailyrewardsui.webp"
+    },
+    {
+        "title": "Settings UI",
         "category": "Anime",
         "image": "assets/images/animesettingsui.webp"
     },
     {
-        "title": "Anime Inventory UI",
+        "title": "Backpack UI",
         "category": "Anime",
         "image": "assets/images/animeinventoryui.webp"
     },
     {
-        "title": "Anime Stud UI",
+        "title": "Inventory UI",
         "category": "Anime",
         "image": "assets/images/animestudui.webp"
     },
     {
-        "title": "Archaelogy Theme UI",
+        "title": "Archaelogy Theme Shop UI",
         "category": "Cartoony",
         "image": "assets/images/archathemeui.webp"
     },
